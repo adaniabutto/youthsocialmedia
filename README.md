@@ -1,4 +1,5 @@
-# Project
+# LAW7517 Final Paper Repository
+## Tackling the Potential Harms and Risks of Minors’ Social Media Use: Strategies and Considerations for U.S. Policy
 
 This repository contains the data and analysis code for my final paper for LAW7517: Choosing Among Policy Instruments (Winter Quarter 2025/26).
 
